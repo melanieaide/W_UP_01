@@ -69,7 +69,7 @@ The numerical summary shows that skill players did about three times as many pus
 t.test(pushups~position,data=mydata)
 ```
 
-The p-value is 0.00000941. This is lss than 0.05, so I reject the $H_O$
+The p-value is 0.00000941. This is less than 0.05, so I reject the $H_O$
 
 
 We conclude that the skill position players can do more pushups on average than can the line players.
@@ -79,5 +79,4 @@ We conclude that the skill position players can do more pushups on average than 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-
-
+In conclusion the information was gathered from the numerical~categorical.rmd file. All of the data was gathered there and where I found the p-value of 0.05. So we rejected the null hypotheses and we concluded that the skill position players can do more push ups on average than the line players.

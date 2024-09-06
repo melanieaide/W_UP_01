@@ -79,4 +79,4 @@ We conclude that the skill position players can do more pushups on average than 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-In conclusion the information was gathered from the numerical~categorical.rmd file. All of the data was gathered there and where I found the p-value of 0.05. So we rejected the null hypotheses and we concluded that the skill position players can do more push ups on average than the line players.
+In conclusion the information that was gathered was from the numerical~categorical.rmd file. Finding out that the null hypothesis was rejected and concluded that the skill position players can do more push ups on average than the line players.The p-value was 0.00000941 and is less than 0.05, rejecting the alternative hypothesis.
